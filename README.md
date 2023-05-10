@@ -1,4 +1,4 @@
-# iNotebook-React-App
+# iNotebook-Cloud-Storage
 
 <img width="900" height="500" alt="image" src="https://user-images.githubusercontent.com/78311368/210269827-c6e133f1-d37f-4ac0-945d-390d7cd4a515.PNG">
 
